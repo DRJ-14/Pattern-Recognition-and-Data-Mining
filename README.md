@@ -1,5 +1,5 @@
-# Pattern Recognition and Data Mining Projects
-# Pattern Recognition and Data Mining Projects
+# Pattern Recognition and Data Mining 
+# Pattern Recognition and Data Mining 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-success)
