@@ -99,14 +99,11 @@ Evaluation
 ## ▶️ How to Run
 
 ### Install dependencies
-```bash
 pip install -U numpy pandas matplotlib scikit-learn jupyter
 
 ---
 
 ## ▶️ Run Experiments
-
-```bash
 jupyter notebook
 
 ---
