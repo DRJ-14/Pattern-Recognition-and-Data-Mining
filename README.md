@@ -1,4 +1,11 @@
 # Pattern Recognition and Data Mining Projects
+# Pattern Recognition and Data Mining Projects
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-success)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-informational)
+![Data Mining](https://img.shields.io/badge/Data-Mining-purple)
 
 A collection of **machine learning and pattern recognition implementations** focusing on **feature extraction, classification, clustering, and statistical analysis** using real-world datasets. The project emphasizes **end-to-end ML pipelines**, from preprocessing to evaluation.
 
